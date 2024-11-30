@@ -3,7 +3,7 @@ It is a website in which you can increase or decrease the counter number by one 
 
 It is made using **React.js**. It uses the concept of **React Hooks**. ⚓
 
-It uses **useState() Hook** such that when any of the button gets pressed, state (the value of the count variable) changes and the new state is re-rendered and we can see the value of counter changes dynamically in our app without refreshing the whole app.
+It uses **useState() Hook** such that when any of the button is pressed, state (the count variable) changes and the counter value in the app updates to the new state dynamically without refreshing the whole app.
 
 ### How to run the project
 -	First open the terminal and change the directory to the current working directory in which we have our project using **cd command**.
